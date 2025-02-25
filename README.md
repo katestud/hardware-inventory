@@ -17,14 +17,15 @@ I was able to buy one from the GitHub Store afterwards.
 
 ## Sensors / Accessories
 
-
 - [Raspberry Pi Camera Module 2](https://www.raspberrypi.com/products/camera-module-v2/)
   - Also includes a built in cover to attach to Raspberry Pi Zero W
   - Also includes a fish eye lens cap, I think?
 - [Bojack DHT 11 Temperature Humidity Sensors](https://www.amazon.com/BOJACK-Temperature-Humidity-Digital-Raspberry/dp/B09TKTZMSL?th=1) - 4
 - 0.96 inch OLED Display - GM009605
+- [Mini USB to Serial FTDI Breakout Board](https://www.amazon.com/dp/B0BJKCSZZW) - debugging and provides power
 
 ## Kits
 
 - [Sparkfun Inventor's Kit (no idea what version, though)](https://www.sparkfun.com/sparkfun-inventor-s-kit-v4-1-2.html)
 - [Lumidax Bakerboard Analog Trainer](http://www.lumidax.com/merged_2014_09_22_14-16-25.pdf)
+- [Sunfounder Raspberry Pi Pico Training Kit](https://www.amazon.com/dp/B0BDFVL6FX)

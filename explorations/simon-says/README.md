@@ -10,11 +10,11 @@ by mashing the colored buttons in order.
 
 ### Breadboard Design
 
-![breadboard](images/breadboard.png)
+![breadboard](assets/breadboard.png)
 
 ## Completed Wiring
 
-![image of breadboard with RPi Pico and Buttons](images/wiring.jpg)
+![image of breadboard with RPi Pico and Buttons](assets/wiring.jpg)
 
 Details:
 
